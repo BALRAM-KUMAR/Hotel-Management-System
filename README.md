@@ -1,2 +1,2 @@
 # Hotel-Management-System
-HMS using HTML , CSS , PHP , JS
+HMS using HTML , CSS , MYsql, PHP , JS
